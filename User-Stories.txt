@@ -1,0 +1,16 @@
+User Stories:
+
+  1) As a user I want to see the latest news of HIPPA breaches.
+   
+  2) As a user I want to see how many individuals have been impacted to date.
+   
+    i) As a user I want to click on a button that show me the information.
+    
+  3) As a user I want to see different types of HIPPA breaches.
+  
+    i) As a user i want to be able to search for a specific type of breach.
+    
+  4) As a user I want to search  Breaches by state.
+  
+  5) As a user I want to be able to use a search box to find information.
+   
